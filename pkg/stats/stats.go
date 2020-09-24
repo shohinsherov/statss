@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/shohinsherov/bankk/pkg/bank/types"
+	"github.com/shohinsherov/bankk/pkg/types"
 )
 
 // Avg рассчитает среднюю сумму платежа
